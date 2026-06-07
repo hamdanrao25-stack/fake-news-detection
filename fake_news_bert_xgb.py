@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Hybrid Fake News Detection: BERT Embeddings + XGBoost Classifier
-Authors: Muhammad Hamdan, Aleena Ashfaq
 
 Architecture:
   Raw text → BERT tokenizer → [CLS] embedding (768-dim) → XGBoost → REAL / FAKE
