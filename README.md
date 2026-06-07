@@ -162,13 +162,6 @@ Fine-tuning requires significantly more compute and GPU memory. Using BERT as a 
 
 ---
 
-## 👥 Authors
-
-- **Muhammad Hamdan** — [github.com/YOUR_USERNAME](https://github.com/hamdanrao25-stack)
-- **Aleena Ashfaq**
-
----
-
 ## 📄 References
 
 1. Berrondo-Otermin & Sarasa-Cabezuelo — AI techniques in fake news detection
