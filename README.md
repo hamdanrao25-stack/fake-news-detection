@@ -164,7 +164,7 @@ Fine-tuning requires significantly more compute and GPU memory. Using BERT as a 
 
 ## 👥 Authors
 
-- **Muhammad Hamdan** — [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **Muhammad Hamdan** — [github.com/YOUR_USERNAME](https://github.com/hamdanrao25-stack)
 - **Aleena Ashfaq**
 
 ---
